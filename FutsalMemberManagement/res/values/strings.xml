@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FutsalMemberManagement</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_name_text1">リソース１</string>
+    <string name="str_name_text2">リソース２</string>
+    <string name="str_name_text3">リソース３</string>
+    <string name="str_name_text4">リソース４</string>
+    <string name="str_name_text5">リソース５</string>
+    <string name="str_name_text6">リソース６</string>
+    <string name="str_name_text7">リソース７</string>
+    <string name="str_name_text8">リソース８</string>
+    <string name="str_title_text1">次の試合</string>
+    <string name="str_title_text2">次の次の試合</string>
+
+    <string name="str_set_member_text1">メンバー１</string>
+    <string name="str_set_member_text2">メンバー２</string>
+    <string name="str_set_member_text3">メンバー３</string>
+    <string name="str_set_member_text4">メンバー４</string>
+    <string name="str_set_member_text5">メンバー５</string>
+    <string name="str_set_member_text6">メンバー６</string>
+    <string name="str_set_member_text7">メンバー７</string>
+    <string name="str_set_member_text8">メンバー８</string>
+
+	<string name="spnPrompt">入力人数選択</string>
+</resources>

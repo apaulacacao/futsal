@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item type="id" name="ids_name_text1" />
+	<item type="id" name="ids_name_text2" />
+	<item type="id" name="ids_name_text3" />
+	<item type="id" name="ids_name_text4" />
+	<item type="id" name="ids_name_text5" />
+	<item type="id" name="ids_name_text6" />
+	<item type="id" name="ids_name_text7" />
+	<item type="id" name="ids_name_text8" />
+	<item type="id" name="ids_title_text1" />
+	<item type="id" name="ids_title_text2" />
+
+	<item type="id" name="ids_set_member_text1" />
+	<item type="id" name="ids_set_member_text2" />
+	<item type="id" name="ids_set_member_text3" />
+	<item type="id" name="ids_set_member_text4" />
+	<item type="id" name="ids_set_member_text5" />
+	<item type="id" name="ids_set_member_text6" />
+	<item type="id" name="ids_set_member_text7" />
+	<item type="id" name="ids_set_member_text8" />
+	<item type="id" name="ids_set_member_edit1" />
+	<item type="id" name="ids_set_member_edit2" />
+	<item type="id" name="ids_set_member_edit3" />
+	<item type="id" name="ids_set_member_edit4" />
+	<item type="id" name="ids_set_member_edit5" />
+	<item type="id" name="ids_set_member_edit6" />
+	<item type="id" name="ids_set_member_edit7" />
+	<item type="id" name="ids_set_member_edit8" />
+	<item type="id" name="ids_set_member_button1" />
+</resources>
